@@ -1,0 +1,5 @@
+C:\Users\Todor Yordanov\Documents\Visual Studio 2013\Projects\HomeWworkDefiningClasses\01Persons\bin\Debug\01Persons.exe.config
+C:\Users\Todor Yordanov\Documents\Visual Studio 2013\Projects\HomeWworkDefiningClasses\01Persons\bin\Debug\01Persons.exe
+C:\Users\Todor Yordanov\Documents\Visual Studio 2013\Projects\HomeWworkDefiningClasses\01Persons\bin\Debug\01Persons.pdb
+C:\Users\Todor Yordanov\Documents\Visual Studio 2013\Projects\HomeWworkDefiningClasses\01Persons\obj\Debug\01Persons.exe
+C:\Users\Todor Yordanov\Documents\Visual Studio 2013\Projects\HomeWworkDefiningClasses\01Persons\obj\Debug\01Persons.pdb
